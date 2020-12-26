@@ -6,7 +6,9 @@ Julia, you can find detailed installation instructions for Julia here: https://j
 
 ## Usage
 Load the code
+
 `julia include("seam_carver.jl")`
 
 Run the function by providing 2 arguments: input image and desired output resolution
+
 `julia seam_carver(img, res)`
