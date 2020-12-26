@@ -1,5 +1,5 @@
 # seam-carver
-A simple Julia implementation of [Seam Carving for Content-Aware Image Resizing] (https://pdfs.semanticscholar.org/5864/8b7f6c7424c256abdd7db8ba024801f0aca1.pdf) (2007).
+A simple Julia implementation of [Seam Carving for Content-Aware Image Resizing ](https://inst.eecs.berkeley.edu/~cs194-26/fa18/hw/proj4-seamcarving/imret.pdf) (2007)
 
 ### Prerequisites
 Julia, you can find detailed installation instructions for Julia here: https://julialang.org/downloads/
